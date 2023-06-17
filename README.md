@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'am Juliano Silva, welcome to my GitHub !</h2>
 
 <p align="center">
-  <a href="https://github.com/julianoacs">
+  <a href="https://github.com/julianoacs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin">
   </a>
 </p>
