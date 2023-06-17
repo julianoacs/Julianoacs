@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/julianoacs">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkdin">
+    <img src="devicon-linkedin-plain-wordmark colored" alt="Linkdin">
   </a>
 </p>
 
