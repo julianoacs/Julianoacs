@@ -1,8 +1,6 @@
 <h2 align="center">Hello, I'am Juliano Silva, welcome to my GitHub !</h2>
 
-<div align="center">
-  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoacs/)
-</div>
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianoacs/)
 
 
 ### Programming Languages
