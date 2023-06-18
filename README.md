@@ -1,19 +1,21 @@
 <h2 align="center">Hello, I'am Juliano Silva, welcome to my GitHub !</h2>
 
+<h6 align="center">Contact me:</h6>
 <p align="center">
   <a href="https://www.linkedin.com/in/julianoacs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin" width="130px">
   </a>
 </p>
+<h6 align="center">Programming languages:</h6>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80px">
 </p>
+<h6 align="center">Tecnologias & Frameworks:</h6>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px">
 </p>
-
 <p align="right">
   <a href="https://www.linkedin.com/in/julianoacs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkdin" width="20px">
