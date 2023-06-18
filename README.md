@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:julianoacsilva@hotmail.com">
-    <img src="https://www.mpoconsultoria.com.br/wp-content/uploads/2015/01/email-icone.png" width="35px"></a>
+    <img src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width="35px"></a>
   <a href="https://www.linkedin.com/in/julianoacs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkdin" width="35px"></a>
   <a href="https://www.instagram.com/julianoacs/">
