@@ -22,6 +22,6 @@
     <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" width="20px"></a>
   <a href="https://www.instagram.com/julianoacs/">
     <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="20px"></a>
-   <a href="julianoacsilva@hotmail.com">
+   <a href="mailto:julianoacsilva@hotmail.com">
     <img src="https://www.mpoconsultoria.com.br/wp-content/uploads/2015/01/email-icone.png" width="20px"></a>
 </p>
