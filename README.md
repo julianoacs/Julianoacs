@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:julianoacsilva@hotmail.com">
     <img src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width="35px"></a>
-  <a href="https://www.linkedin.com/in/julianoacs/" target="_blank">
+  <a href="https://www.linkedin.com/in/julianoacs/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkdin" width="35px"></a>
   <a href="https://www.instagram.com/julianoacs/">
     <img src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1" width="35px"></a>
