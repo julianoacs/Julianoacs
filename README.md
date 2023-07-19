@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:julianoacsilva@hotmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/128/3711/3711157.png" width="35px: 10px"></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" width="35px: 10px"></a>
   <a href="https://www.linkedin.com/in/julianoacs/">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" width="35px"></a>
   <a href="https://www.instagram.com/julianoacs/">
