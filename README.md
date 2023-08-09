@@ -1,8 +1,8 @@
-<h4 align="center">Programming languages</h4>
+<h5 align="center">Programming languages</h5>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px">
 </p>
-<h4 align="center">Database & Frameworks</h4>
+<h5 align="center">Database & Frameworks</h5>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px">
