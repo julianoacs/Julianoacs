@@ -1,6 +1,6 @@
 <h5 align="center">Programming languages</h5>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="85px">
 </p>
 <h5 align="center">Database & Frameworks</h5>
 <p align="center">
