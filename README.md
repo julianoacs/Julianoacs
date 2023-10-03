@@ -1,10 +1,10 @@
-<h5 align="center">Programming languages</h5>
+<h4 align="center">Programming languages</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="85px">
 </p>
 
-<h5 align="center">Database & Frameworks</h5>
+<h4 align="center">Database & Frameworks</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px">
