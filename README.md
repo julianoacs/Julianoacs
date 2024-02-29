@@ -18,4 +18,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" width="40px"></a>
   <a href="https://www.linkedin.com/in/julianoacs/">
     <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" width="40px"></a>
+  <a href="https://julianoacs.github.io/Portfolio/">
+    <img src="https://ibb.co/hK4vBbM" width="40px"></a>
 </p>
