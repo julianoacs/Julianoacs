@@ -4,7 +4,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="85px">
 </p>
 
-<h4 align="center">Database & Frameworks</h4>
+<h4 align="center">Database and Tools</h4>
 
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="30px">
