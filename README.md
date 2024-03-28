@@ -1,4 +1,3 @@
-<hr>
 <h4 align="center">Programming languages</h4>
 
 <p align="center">
