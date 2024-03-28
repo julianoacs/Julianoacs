@@ -12,7 +12,7 @@
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoHtml.png" width="30px">
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoCss.png" width="30px">
 </p>
-<hr>
+
 <p align="end">
   <a href="https://julianoacs.github.io/Portfolio/">
     <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoDev.png" width="35px"></a>
