@@ -10,7 +10,7 @@
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/mySql.png" width="30px">
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/springBoot.png" width="30px">
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoHtml.png" width="30px">
-  <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoCsss.png" width="30px">
+  <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoCss.png" width="30px">
 </p>
 
 <p align="end">
