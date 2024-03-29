@@ -1,5 +1,5 @@
 <h4 align="center">Programming languages</h4>
-
+<hr>
 <p align="center">
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoJava.png" width="115px">
 </p>
