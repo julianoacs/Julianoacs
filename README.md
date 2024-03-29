@@ -13,7 +13,11 @@
   <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoCss.png" width="30px">
 </p>
 
-<p align="end">
+<hr>
+
+<h6 align="center">Contacts</h6>
+
+<p align="center">
   <a href="https://julianoacs.github.io/Portfolio/">
     <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoDev.png" width="35px"></a>
   <a href="mailto:julianoacsilva@hotmail.com">
