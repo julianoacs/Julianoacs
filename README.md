@@ -1,7 +1,7 @@
 <h4 align="center">Programming languages</h4>
 
 <p align="center">
-  <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoJava.png" width="115px">
+  <img src="https://github.com/julianoacs/julianoacs/blob/main/imagens/logoJava.png" width="100px">
 </p>
 
 <h4 align="center">Database and Tools</h4>
