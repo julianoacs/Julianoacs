@@ -1,4 +1,4 @@
-<h3 align="center">Juliano Silva - Software Developer</h3> 
+<h2 align="center">Juliano Silva - Software Developer</h2> 
 
 <h6 align="center">Contacts:</h6>
 <p align="center">
